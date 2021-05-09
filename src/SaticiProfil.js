@@ -14,7 +14,7 @@ export default class SaticiProfil extends Component {
     return {
       title: `${user.name.first} ${user.name.last}`,
     };
-  };
+  }; // değişiklik denemesi
 
   render() {
     return (
